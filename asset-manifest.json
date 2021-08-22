@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//hakiuby.github.io/React-Tutorial-/static/css/main.3615deb4.chunk.css",
+    "main.js": "//hakiuby.github.io/React-Tutorial-/static/js/main.061b5c11.chunk.js",
+    "main.js.map": "//hakiuby.github.io/React-Tutorial-/static/js/main.061b5c11.chunk.js.map",
+    "runtime-main.js": "//hakiuby.github.io/React-Tutorial-/static/js/runtime-main.ea66f5d1.js",
+    "runtime-main.js.map": "//hakiuby.github.io/React-Tutorial-/static/js/runtime-main.ea66f5d1.js.map",
+    "static/js/2.f64cb2d3.chunk.js": "//hakiuby.github.io/React-Tutorial-/static/js/2.f64cb2d3.chunk.js",
+    "static/js/2.f64cb2d3.chunk.js.map": "//hakiuby.github.io/React-Tutorial-/static/js/2.f64cb2d3.chunk.js.map",
+    "index.html": "//hakiuby.github.io/React-Tutorial-/index.html",
+    "static/css/main.3615deb4.chunk.css.map": "//hakiuby.github.io/React-Tutorial-/static/css/main.3615deb4.chunk.css.map",
+    "static/js/2.f64cb2d3.chunk.js.LICENSE.txt": "//hakiuby.github.io/React-Tutorial-/static/js/2.f64cb2d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea66f5d1.js",
+    "static/js/2.f64cb2d3.chunk.js",
+    "static/css/main.3615deb4.chunk.css",
+    "static/js/main.061b5c11.chunk.js"
+  ]
+}
